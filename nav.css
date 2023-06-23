@@ -1,0 +1,33 @@
+#logo img{
+    margin-top: 10px;
+    float: left;
+    padding: 25px;
+}
+img{
+    margin-top: 15px;
+    margin-left: 8px;
+}
+.navbar li a{
+    color: black;
+    font-size: 25px;
+    font-family: 'Poppins', sans-serif;    
+    text-decoration: none;
+    padding: 10px;
+    margin-left: 11px;
+    margin-right: 11px;
+}
+.navbar li{
+    list-style: none;
+    float: left;
+    
+}
+.navbar ul{
+    float: right;
+    margin-right: -5px;
+    margin-bottom: 0px;
+}
+.navbar{
+    width: 98.5%;
+    margin-left: auto;
+    margin-right: auto;
+}
